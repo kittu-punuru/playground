@@ -1,0 +1,7 @@
+#!/bin/bash
+
+VARIABLE="$(cat /proc/meminfo)"
+
+echo "$VARIABLE"
+
+
