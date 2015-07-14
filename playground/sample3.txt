@@ -1,0 +1,7 @@
+10)process 
+11)enivinor
+12
+14)packeges
+networking
+security for files
+grep
