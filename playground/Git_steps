@@ -1,0 +1,35 @@
+### First time Git setup
+### Identification
+
+$ git config --global user.name "kittu-punuru"
+$ git config --global user.email kittu.punuru@gmail.com
+.........................................................................
+### To check settings
+
+$ git config --list
+...........................................................................
+### For user verification
+
+$ git config user.name
+..............................................................................
+### Getting a git Repository
+### Initializing a Repository in an Existing Directory
+
+$ git init
+$ git add filename
+...............................................................................
+### To know the status
+$ git status
+................................................................................
+### To commit the changes in the local repository
+$ git commit -m "message"
+................................................................................
+### To push the changes to Git account
+$ git push origin master
+
+###Cloning an Existing Repository
+
+$ git clone https://github.com/kittu-punuru/playground.git
+### change commit message
+git commit --amend -m "New commit message"
+
